@@ -1,1 +1,1 @@
-"# testkissawebsite" 
+サンプルで制作した静的webサイトです。
